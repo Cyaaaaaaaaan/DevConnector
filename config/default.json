@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://cyan1:cyan001@cluster0.0vyra.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://cyan1:cyan001@cluster0.0vyra.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
